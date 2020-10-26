@@ -1,6 +1,6 @@
 # Automation-Ambu
 
-  Devido a pandemia mundial causada pelo Coronavírus, as atividades presenciais da Universidade de Brasília (UnB) tiveram que ser suspensas. No curso de Engenharia Mecatrônica existe uma matéria exclusiva para calouros chamada Introdução a Engenharia Mecatrônica (IEM), onde cada grupo deve desenvolver alguma solução de impacto social utilizando microcontroladores, como Arduino e Raspberry. Esse ano, devido a pandemia, o tema central foi o combate à COVID-19, onde o grupo escolheu como tema a Automação de uma Bolsa de Ambu, a fim de diminuir a necessidade constante de um responsável pela compresão da bolsa.
+  Devido a pandemia mundial causada pelo Coronavírus, as atividades presenciais da Universidade de Brasília (UnB) tiveram que ser suspensas. No curso de Engenharia Mecatrônica existe uma matéria exclusiva para calouros chamada Introdução a Engenharia Mecatrônica (IEM), onde cada grupo deve desenvolver alguma solução de impacto social utilizando microcontroladores, como Arduino e Raspberry. Esse ano, devido a pandemia, o tema central foi o combate à COVID-19, onde o grupo escolheu como tema a Automação de uma Bolsa de Ambu, a fim de diminuir a necessidade constante de um responsável pela compressão da bolsa.
   A automação é relativamente simples e foi muito adaptada devido as dificuldades de simulação na plataforma escolhida pelo docente. Foram utilizados:
   - Arduino Uno R3
   - Motor CC
