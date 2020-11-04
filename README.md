@@ -23,7 +23,7 @@
   
   Sugestões e melhorias são sempre bem-vindas, caso utilize algo do projeto não esqueça dos créditos!
   
-  Equipe:
+  <n>Equipe:<\n><br>
   Amanda Reis - graduanda em Engenharia Mecatrônica UnB<br>
   Eduardo Mendes - graduando em Engenharia Mecatrônica UnB<br>
   Giovanna Nogueira - graduanda em Engenharia Mecatrônica UnB<br>
