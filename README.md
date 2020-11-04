@@ -23,7 +23,10 @@
   
   Equipe:
   Amanda Reis - graduanda em Engenharia Mecatrônica UnB
-  Eduardo Mendes - graduanda em Engenharia Mecatrônica UnB
+  Eduardo Mendes - graduando em Engenharia Mecatrônica UnB
   Giovanna Nogueira - graduanda em Engenharia Mecatrônica UnB
+  Jasiel Genuíno - graduando em Engenharia Mecatrônica UnB
   Letícia Xavier - graduanda em Engenharia Mecatrônica UnB
+  Luiza Santos - graduanda em Engenharia Mecatrônica UnB
+  Marina Pinto - graduanda em Engenharia Mecatrônica
   
