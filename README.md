@@ -1,6 +1,6 @@
 # Automation-Ambu
 
->Projeto em desenvolvimento
+>Projeto em desenvolvimento :warning:
 
   Devido a pandemia mundial causada pelo Coronavírus, as atividades presenciais da Universidade de Brasília (UnB) tiveram que ser suspensas. No curso de Engenharia Mecatrônica existe uma matéria exclusiva para calouros chamada Introdução a Engenharia Mecatrônica (IEM), onde cada grupo deve desenvolver alguma solução de impacto social utilizando microcontroladores, como Arduino e Raspberry. Esse ano, devido a pandemia, o tema central foi o combate à COVID-19, onde o grupo escolheu como tema a Automação de uma Bolsa de Ambu, a fim de diminuir a necessidade constante de um responsável pela compressão da bolsa.
   A automação é relativamente simples e foi muito adaptada devido as dificuldades de simulação na plataforma escolhida pelo docente. Foram utilizados:
@@ -19,16 +19,16 @@
   O protótipo é apenas uma simulação que foi feita apenas para fins educacionais, não sendo testado e é
  ## ALTAMENTE NÃO RECOMENDADO A CÓPIA EXATA DO MODELO AQUI PROPOSTO PARA USO GERAL.
   
-  A simulação e ligação dos componentes podem ser encontrada em: [Tinkercad GnF17 - Automação Ambu] (https://www.tinkercad.com/things/1WA4QQktBNP) (caso o link não esteja funcionando basta entrar no site Tinkercad e procurar pelo perfil GnF17)
+  A simulação e ligação dos componentes podem ser encontrada em: [Tinkercad GnF17 - Automação Ambu](https://www.tinkercad.com/things/1WA4QQktBNP) (caso o link não esteja funcionando basta entrar no site Tinkercad e procurar pelo perfil GnF17) 
   
   Sugestões e melhorias são sempre bem-vindas, caso utilize algo do projeto não esqueça dos créditos!
   
   Equipe:
-  Amanda Reis - graduanda em Engenharia Mecatrônica UnB
-  Eduardo Mendes - graduando em Engenharia Mecatrônica UnB
-  Giovanna Nogueira - graduanda em Engenharia Mecatrônica UnB
-  Jasiel Genuíno - graduando em Engenharia Mecatrônica UnB
-  Letícia Xavier - ~graduanda em Engenharia Mecatrônica UnB~
-  Luiza Santos - graduanda em Engenharia Mecatrônica UnB
-  Marina Pinto - graduanda em Engenharia Mecatrônica
+  Amanda Reis - graduanda em Engenharia Mecatrônica UnB<br>
+  Eduardo Mendes - graduando em Engenharia Mecatrônica UnB<br>
+  Giovanna Nogueira - graduanda em Engenharia Mecatrônica UnB<br>
+  Jasiel Genuíno - graduando em Engenharia Mecatrônica UnB<br>
+  Letícia Xavier - ~graduanda em Engenharia Mecatrônica UnB~<br>
+  Luiza Santos - graduanda em Engenharia Mecatrônica UnB<br>
+  Marina Pinto - graduanda em Engenharia Mecatrônica<br>
   
