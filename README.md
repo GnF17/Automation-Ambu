@@ -19,7 +19,7 @@
   O protótipo é apenas uma simulação que foi feita apenas para fins educacionais, não sendo testado e é
  ## ALTAMENTE NÃO RECOMENDADO A CÓPIA EXATA DO MODELO AQUI PROPOSTO PARA USO GERAL.
   
-  A simulação e ligação dos componentes podem ser encontrada em: [Tinkercad GnF17 - Automação Ambu](https://www.tinkercad.com/things/1WA4QQktBNP) (caso o link não esteja funcionando basta entrar no site Tinkercad e procurar pelo perfil GnF17) 
+  A simulação e ligação dos componentes podem ser encontrada em: [Tinkercad GnF17 - Automação Ambu]( https://www.tinkercad.com/things/at9caVOI4aN) (caso o link não esteja funcionando basta entrar no site Tinkercad e procurar pelo perfil GnF17) 
   
   Sugestões e melhorias são sempre bem-vindas, caso utilize algo do projeto não esqueça dos créditos!
   
