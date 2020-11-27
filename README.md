@@ -1,4 +1,4 @@
-# Automation-Ambu
+# Mechanical Respirator Automation (Ambu)
 
 >Projeto em desenvolvimento :warning:
 
